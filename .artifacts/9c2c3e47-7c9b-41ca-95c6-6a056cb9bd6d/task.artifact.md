@@ -1,0 +1,4 @@
+- [x] Update Room and KSP versions in `libs.versions.toml`
+- [x] Enable KSP2 in `gradle.properties`
+- [x] Verify fix by running `kspDebugKotlin`
+- [x] Final build verification
